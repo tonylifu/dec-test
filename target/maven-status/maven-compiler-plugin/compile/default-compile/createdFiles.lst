@@ -1,0 +1,8 @@
+com/example/test/dto/Username.class
+com/example/test/service/SockLaundry.class
+com/example/test/service/WS.class
+com/example/test/dto/Data.class
+com/example/test/service/Environment.class
+com/example/test/service/TestAuthors.class
+org/netbeans/rest/application/config/ApplicationConfig.class
+com/example/test/service/Service.class
